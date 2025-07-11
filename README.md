@@ -79,7 +79,7 @@ Adjust real_distance_meters to the actual distance between the two virtual lines
 
 🎥 Sample Output
 
-<img width="797" height="598" alt="Screenshot 2025-07-11 123927" src="https://github.com/user-attachments/assets/a120d176-0b7d-4bbb-9f85-cf48c036365f" />
+<img width="1278" height="835" alt="image" src="https://github.com/user-attachments/assets/02ac9308-3a39-414c-997f-b9114334c8f7" />
 
 
 💡 Future Enhancements
